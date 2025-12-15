@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "uci.h"
 #include "spi.h"
 
